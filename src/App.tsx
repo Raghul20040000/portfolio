@@ -351,11 +351,11 @@ function App() {
                
               
               <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl mb-4 text-lg leading-relaxed shadow-xl border border-white/20 md:max-w-lg">
-                Passionate about transforming raw data into powerful insights. Proficient in Python, data analytics, and AI model development, I excel at building machine learning models.
+            Motivated and fast-learning fresher with a strong foundation in Java Full Stack development, covering front-end and back-end technologies. Seeking to contribute to end-to-end application development and advance as a proficient full stack developer.
               </div>
               <div className="flex flex-wrap gap-4 justify-center md:justify-start mb-6 md:mb-0">
                 <a 
-                  href="https://linkedin.com/in/prem-kumar-2003in/" 
+                  href="https://www.linkedin.com/in/raghul-s-2990aa226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="bg-white text-indigo-600 px-8 py-3 rounded-full font-semibold hover:bg-indigo-50 transition-colors flex items-center gap-2 shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300"
@@ -408,18 +408,16 @@ function App() {
           <div className="bg-gradient-to-br from-indigo-50 to-purple-50 p-8 rounded-2xl shadow-xl border border-indigo-100 mb-16 transform hover:scale-[1.01] transition-all duration-300">
             <div className="max-w-3xl mx-auto space-y-4">
               <p className="text-gray-700 text-lg leading-relaxed">
-                Passionate about Data Science, I am actively improving my analytical and coding skills through continuous learning and hands-on projects. Proficient in Python, data analytics, and AI model development, I explore innovative solutions using data-driven approaches.
+                Enthusiastic and quick-learning fresher with a strong grasp of Java Full Stack development, including front-end technologies (HTML, CSS, JavaScript) and back-end frameworks (Java). Looking to join a dynamic tech team where I can contribute to full-cycle application development, enhance my skills, and grow into a proficient full stack developer.
               </p>
-              <p className="text-gray-700 text-lg leading-relaxed">
-                Currently focused on Data Science, Machine Learning, and LLM applications, I seek opportunities to apply my skills, collaborate, and grow professionally.
-              </p>
+             
             </div>
           </div>
 
           {/* Top Skills */}
           <h3 className="text-2xl font-bold mb-8 text-center text-gray-800">Top Skills</h3>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-4 md:gap-6">
-            {['Data Science', 'Machine Learning', 'Python', 'Data Analysis', 'Artificial Intelligence'].map((skill, index) => (
+            {['Java', 'Python', 'MySQL', 'Tailwind CSS', 'JavaScript','Machine Learning','Deep Learning'].map((skill, index) => (
               <div 
                 key={skill} 
                 className={`bg-gradient-to-br p-6 rounded-xl shadow-md text-center border transform hover:-translate-y-1 hover:shadow-lg transition-all duration-300 flex items-center justify-center ${
@@ -461,7 +459,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold mb-4 text-indigo-600">Languages</h3>
               <ul className="space-y-3 text-gray-600">
-                {['Python', 'Java'].map(skill => (
+                {['Java', 'Python'].map(skill => (
                   <li key={skill} className="flex items-center gap-2">
                     <span className="h-2 w-2 bg-indigo-600 rounded-full"></span>
                     <span>{skill}</span>
@@ -479,7 +477,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold mb-4 text-purple-600">Libraries/Frameworks</h3>
               <ul className="space-y-3 text-gray-600">
-                {['NumPy', 'Pandas', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'Streamlit', 'tkinter'].map(skill => (
+                {['NumPy', 'Pandas', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'Streamlit', 'Spring Boot'].map(skill => (
                   <li key={skill} className="flex items-center gap-2">
                     <span className="h-2 w-2 bg-purple-600 rounded-full"></span>
                     <span>{skill}</span>
@@ -551,117 +549,36 @@ function App() {
               <div className="md:flex gap-6">
                 <div className="md:w-1/3 mb-6 md:mb-0">
                   <div className="bg-white p-2 inline-block rounded-lg shadow-sm mb-2">
-                    <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent font-bold text-lg">Mar 2025 - Present</span>
+                    <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent font-bold text-lg">Mar 2025 - July 2025</span>
                   </div>
                   <h3 className="text-2xl font-bold mb-2 text-gray-800">Software Developer Internship</h3>
                   <div className="flex flex-col gap-2 text-gray-600 mb-4">
                     <div className="flex items-center gap-1">
                       <Building size={18} />
-                      <a href="https://www.suryainduction.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Surya Induction Engineering</a>
+                      <a href="https://www.suryainduction.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Accenture India Private Limited</a>
                     </div>
                     <div className="flex items-center gap-1">
                       <MapPin size={18} />
-                      <span>Melpakkam, Avadi, Chennai</span>
+                      <span>Banglore</span>
                     </div>
                   </div>
                 </div>
                 
                 <div className="md:w-2/3">
-                  <h4 className="font-bold text-lg mb-4 text-indigo-700">Energy Consumption Dashboard Project</h4>
+                  <h4 className="font-bold text-lg mb-4 text-indigo-700">SDE Intern (On-site)</h4>
                   <ul className="space-y-4 text-gray-700">
                     <li className="flex gap-3 items-start">
                       <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white text-xs mt-0.5">1</span>
-                      <span>Developed a real-time energy consumption dashboard that enables efficient monitoring and analysis of usage patterns.</span>
+                      <span>Selected for a competitive 2-month internship program with a monthly stipend of ₹16,100.</span>
                     </li>
                     <li className="flex gap-3 items-start">
                       <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white text-xs mt-0.5">2</span>
-                      <span>Implemented responsive design principles ensuring optimal user experience across all devices.</span>
+                      <span>Engaged in real-time project assignments under professional mentorship.</span>
                     </li>
                     <li className="flex gap-3 items-start">
                       <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white text-xs mt-0.5">3</span>
-                      <span>Enhanced user engagement through interactive elements and dynamic data visualization.</span>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            
-            {/* Data Analyst Internship */}
-            <div className="bg-gradient-to-r from-purple-50 to-indigo-50 p-8 rounded-2xl shadow-xl border border-purple-100 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 relative overflow-hidden">
-              <div className="absolute top-0 left-0 w-32 h-32 bg-gradient-to-br from-purple-100 to-indigo-100 rounded-br-full opacity-70 -z-10"></div>
-              
-              <div className="md:flex gap-6">
-                <div className="md:w-1/3 mb-6 md:mb-0">
-                  <div className="bg-white p-2 inline-block rounded-lg shadow-sm mb-2">
-                    <span className="bg-gradient-to-r from-purple-600 to-indigo-600 bg-clip-text text-transparent font-bold text-lg">Jan 2025 - Feb 2025</span>
-                  </div>
-                  <h3 className="text-2xl font-bold mb-2 text-gray-800">Data Analyst Internship</h3>
-                  <div className="flex flex-col gap-2 text-gray-600 mb-4">
-                    <div className="flex items-center gap-1">
-                      <Building size={18} />
-                      <a href="https://menpower.in" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Men Power Media Network (MP TV)</a>
-                    </div>
-                    <div className="flex items-center gap-1">
-                      <MapPin size={18} />
-                      <span>Nemili, Ranipet District</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div className="md:w-2/3">
-                  <ul className="space-y-4 text-gray-700">
-                    <li className="flex gap-3 items-start">
-                      <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-purple-600 to-indigo-600 flex items-center justify-center text-white text-xs mt-0.5">1</span>
-                      <span>Proficient in data analysis using Google Sheets and Python libraries</span>
-                    </li>
-                    <li className="flex gap-3 items-start">
-                      <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-purple-600 to-indigo-600 flex items-center justify-center text-white text-xs mt-0.5">2</span>
-                      <span>Skilled in data visualization using Tableau and Python libraries</span>
-                    </li>
-                    <li className="flex gap-3 items-start">
-                      <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-purple-600 to-indigo-600 flex items-center justify-center text-white text-xs mt-0.5">3</span>
-                      <span>Created a Google Maps scraper using Beautiful Soup and tkinter</span>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            
-            {/* AI and ML Internship */}
-            <div className="bg-gradient-to-r from-indigo-50 to-purple-50 p-8 rounded-2xl shadow-xl border border-indigo-100 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 relative overflow-hidden">
-              <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-indigo-100 to-purple-100 rounded-bl-full opacity-70 -z-10"></div>
-              
-              <div className="md:flex gap-6">
-                <div className="md:w-1/3 mb-6 md:mb-0">
-                  <div className="bg-white p-2 inline-block rounded-lg shadow-sm mb-2">
-                    <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent font-bold text-lg">Jan 2024 - Feb 2024</span>
-                  </div>
-                  <h3 className="text-2xl font-bold mb-2 text-gray-800">AI and ML Internship</h3>
-                  <div className="flex flex-col gap-2 text-gray-600 mb-4">
-                    <div className="flex items-center gap-1">
-                      <Building size={18} />
-                      <a href="https://msme.gov.in" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Ministry of Micro, Small & Medium Enterprises (MSME)</a>
-                    </div>
-                    <div className="flex items-center gap-1">
-                      <MapPin size={18} />
-                      <span>Guindy, Chennai</span>
-                    </div>
-                  </div>
-                </div>
-                
-                <div className="md:w-2/3">
-                  <ul className="space-y-4 text-gray-700">
-                    <li className="flex gap-3 items-start">
-                      <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white text-xs mt-0.5">1</span>
-                      <span>Conducted data collection and exploratory data analysis (EDA) using Python libraries</span>
-                    </li>
-                    <li className="flex gap-3 items-start">
-                      <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white text-xs mt-0.5">2</span>
-                      <span>Developed and validated machine learning models using Scikit-learn</span>
-                    </li>
-                    <li className="flex gap-3 items-start">
-                      <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center text-white text-xs mt-0.5">3</span>
-                      <span>Created visual reports with Matplotlib and Seaborn</span>
+                      <span>Completed integrated learning modules and training assessments focused on enterprise-level practices and tools.
+</span>
                     </li>
                   </ul>
                 </div>
@@ -685,7 +602,7 @@ function App() {
               Featured Projects
               <span className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-to-r from-indigo-600 to-purple-600"></span>
             </h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">Showcasing a selection of my best projects that demonstrate my skills in data science, machine learning, and AI application development.</p>
+            <p className="text-gray-600 max-w-2xl mx-auto">Showcasing a selection of my best projects that demonstrate my machine learning, Deep Learning and AI application development.</p>
           </div>
           
           <div className="space-y-16">
@@ -694,15 +611,15 @@ function App() {
               <div className="md:flex">
                 <div className="md:w-2/5 relative overflow-hidden shadow-inner">
                   <img 
-                    src="/prem-portfolio/images/01.png"
-                    alt="Movie Recommendation System"
+                    src="/portfolio/images/01.png"
+                    alt="Automized Detection of Perpetrator of Crime from CCTV Footages"
                     className="w-full h-[350px] object-cover transition-transform duration-500"
                   />
                 </div>
                 <div className="p-6 md:w-3/5 flex flex-col">
-                  <h3 className="text-2xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">Movie Recommendation System</h3>
+                  <h3 className="text-2xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600">Automized Detection of Perpetrator of Crime from CCTV Footages</h3>
                   <div className="flex flex-wrap gap-2 mb-4">
-                    {['Python', 'Streamlit', 'Scikit-learn', 'Pandas', 'NumPy'].map((tech) => (
+                    {['ArcFace', 'DeepFace', 'RetinaFace', 'OpenCV', 'NumPy'].map((tech) => (
                       <span key={tech} className="bg-gradient-to-r from-indigo-100 to-indigo-200 text-indigo-800 px-3 py-1 rounded-full text-sm font-medium shadow-sm">
                         {tech}
                       </span>
@@ -710,7 +627,7 @@ function App() {
                   </div>
                   <div className="bg-gradient-to-br from-indigo-50 to-purple-50 p-4 rounded-xl mb-5 flex-grow shadow-inner">
                     <p className="text-gray-700 mb-3 leading-relaxed">
-                      Finding the right movie to watch can be overwhelming due to the vast number of available options. This content-based movie recommendation system suggests movies based on their similarity to a given movie using machine learning techniques.
+                      Finding perpetrators in CCTV footage can be challenging due to low resolution, occlusions, and vast amounts of video data. This Automated detection system identifies criminals by analyzing surveillance footage using deep learning and computer vision techniques.
                     </p>
                     <div className="space-y-2">
                       <div className="flex items-start gap-2">
@@ -719,7 +636,7 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Processed movie data from TMDB using Pandas for data cleaning and preprocessing.</span>
+                        <span className="text-gray-700 text-sm">Preprocessed CCTV footage using OpenCV and FFmpeg for frame extraction, noise reduction, and brightness adjustment.</span>
                       </div>
                       <div className="flex items-start gap-2">
                         <div className="flex-shrink-0 w-5 h-5 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center mt-0.5 shadow-sm">
@@ -727,7 +644,7 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Used Scikit-learn's CountVectorizer to implement the Bag of Words model for feature extraction.</span>
+                        <span className="text-gray-700 text-sm">Detected faces in real-time using RetinaFace, a deep learning model for high-accuracy face localization.</span>
                       </div>
                       <div className="flex items-start gap-2">
                         <div className="flex-shrink-0 w-5 h-5 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center mt-0.5 shadow-sm">
@@ -735,7 +652,7 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Built a cosine similarity matrix using Scikit-learn to find similar movies.</span>
+                        <span className="text-gray-700 text-sm">Recognized suspects by matching facial embeddings with ArcFace, ensuring robust identity verification.</span>
                       </div>
                       <div className="flex items-start gap-2">
                         <div className="flex-shrink-0 w-5 h-5 rounded-full bg-gradient-to-r from-indigo-600 to-purple-600 flex items-center justify-center mt-0.5 shadow-sm">
@@ -743,13 +660,13 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Developed an interactive web interface using Streamlit for real-time recommendations.</span>
+                        <span className="text-gray-700 text-sm">Built an interactive dashboard with Streamlit for law enforcement to upload footage, view detections, and receive alerts.</span>
                       </div>
                     </div>
                   </div>
 
                   <a 
-                    href="https://github.com/premkumar0607/MOVIE-RECOMMENDATION-ENGINE"
+                    href="https://github.com/Raghul20040000/Automized-detection-of-perpetrator-of-crime-from-CCTV-footages"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-5 py-2.5 rounded-xl hover:shadow-lg transform hover:translate-y-px transition-all duration-300 self-start"
@@ -761,20 +678,20 @@ function App() {
               </div>
             </div>
 
-            {/* Crime Perpetrator Detection System */}
+            {/*  SepCure - To predict Sepsis Condition */}
             <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-indigo-100 hover:shadow-2xl transition-all duration-500">
               <div className="md:flex">
                 <div className="md:w-2/5 relative overflow-hidden shadow-inner">
                   <img 
-                    src="/prem-portfolio/images/02.png"
-                    alt="Crime Perpetrator Detection System"
+                    src="/portfolio/images/02.png"
+                    alt=" SepCure - To predict Sepsis Condition"
                     className="w-full h-[350px] object-cover transition-transform duration-500"
                   />
                 </div>
                 <div className="p-6 md:w-3/5 flex flex-col">
-                  <h3 className="text-2xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-indigo-600">Crime Perpetrator Detection System</h3>
+                  <h3 className="text-2xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-indigo-600"> SepCure - To predict Sepsis Condition</h3>
                   <div className="flex flex-wrap gap-2 mb-4">
-                    {['Python', 'OpenCV', 'deepface', 'retinaface', 'Streamlit', 'Numpy'].map((tech) => (
+                    {['Flask', 'Scikit-learn', 'Pandas', 'SQLite3', 'Joblib', 'Numpy'].map((tech) => (
                       <span key={tech} className="bg-gradient-to-r from-purple-100 to-purple-200 text-purple-800 px-3 py-1 rounded-full text-sm font-medium shadow-sm">
                         {tech}
                       </span>
@@ -782,7 +699,7 @@ function App() {
                   </div>
                   <div className="bg-gradient-to-br from-purple-50 to-indigo-50 p-4 rounded-xl mb-5 flex-grow shadow-inner">
                     <p className="text-gray-700 mb-3 leading-relaxed">
-                      This AI-powered system automates suspect identification from CCTV footage and images using advanced face recognition techniques. It processes video frames and images to detect and verify faces, comparing them against a query image to find matches.
+                     Early detection of sepsis is critical to prevent life-threatening complications. This automated system predicts sepsis and its severity stages (Sepsis, Severe Sepsis, Septic Shock) using clinical data and machine learning.
                     </p>
                     <div className="space-y-2">
                       <div className="flex items-start gap-2">
@@ -791,7 +708,7 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Captures and processes video frames using OpenCV for face detection and recognition.</span>
+                        <span className="text-gray-700 text-sm">Preprocessed clinical data (vital signs, lab results) using Pandas and NumPy for handling missing values, normalization, and feature engineering.</span>
                       </div>
                       <div className="flex items-start gap-2">
                         <div className="flex-shrink-0 w-5 h-5 rounded-full bg-gradient-to-r from-purple-600 to-indigo-600 flex items-center justify-center mt-0.5 shadow-sm">
@@ -799,7 +716,7 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Extracts key frames from videos and saves them for further analysis and comparison.</span>
+                        <span className="text-gray-700 text-sm">Trained a multi-stage classifier using Random Forest (Scikit-learn) to predict sepsis progression with high accuracy.</span>
                       </div>
                       <div className="flex items-start gap-2">
                         <div className="flex-shrink-0 w-5 h-5 rounded-full bg-gradient-to-r from-purple-600 to-indigo-600 flex items-center justify-center mt-0.5 shadow-sm">
@@ -807,13 +724,13 @@ function App() {
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700 text-sm">Uses DeepFace with RetinaFace to detect and verify faces against the query image.</span>
+                        <span className="text-gray-700 text-sm">Deployed a user-friendly web interface with Flask for healthcare providers to input patient data and receive real-time predictions.</span>
                       </div>
                     </div>
                   </div>
 
                   <a 
-                    href="https://github.com/premkumar0607/"
+                    href="https://github.com/Raghul20040000/SepCure-To-predict-Sepsis-Condition"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-indigo-600 text-white px-5 py-2.5 rounded-xl hover:shadow-lg transform hover:translate-y-px transition-all duration-300 self-start"
@@ -825,7 +742,7 @@ function App() {
               </div>
             </div>
 
-            {/* Real-time Hand Gesture Recognition */}
+            {/* Real-time Hand Gesture Recognition
             <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-indigo-100 hover:shadow-2xl transition-all duration-500">
               <div className="md:flex">
                 <div className="md:w-2/5 relative overflow-hidden shadow-inner">
@@ -887,7 +804,7 @@ function App() {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
@@ -909,30 +826,30 @@ function App() {
           </div>
           
           <div className="max-w-3xl mx-auto space-y-12">
-            {/* S.A. Engineering College */}
+            {/* Sri Krishna College of Engineering and Technology */}
             <div className="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-2xl shadow-xl border border-indigo-100 overflow-hidden group hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
               <div className="h-24 bg-gradient-to-r from-indigo-600 to-purple-600 relative">
                 <div className="absolute -bottom-12 left-8 w-24 h-24 bg-white p-2 rounded-xl shadow-lg">
                   <div className="w-full h-full bg-gradient-to-br from-indigo-600 to-purple-600 rounded-lg flex items-center justify-center">
-                    <span className="text-white text-2xl font-bold">B.Tech</span>
+                    <span className="text-white text-2xl font-bold">M.Tech</span>
                   </div>
                 </div>
               </div>
               <div className="p-8 pt-16">
-                <h3 className="text-2xl font-bold mb-2 text-indigo-600">S.A. Engineering College</h3>
-                <p className="text-xl mb-4 text-gray-800">Bachelor of Technology in Artificial Intelligence and Data Science</p>
+                <h3 className="text-2xl font-bold mb-2 text-indigo-600">Sri Krishna College of Engineering and Technology</h3>
+                <p className="text-xl mb-4 text-gray-800">Master of Technology in Computer Science and Engineering</p>
                 <div className="flex flex-wrap gap-4 text-gray-600 mb-4">
                   <div className="flex items-center gap-1 bg-white/50 px-3 py-1 rounded-full">
                     <Calendar size={16} className="text-indigo-600" />
-                    <span>2021 - 2025</span>
+                    <span>2021 - 2026</span>
                   </div>
                   <div className="flex items-center gap-1 bg-white/50 px-3 py-1 rounded-full">
                     <MapPin size={16} className="text-indigo-600" />
-                    <span>Chennai, Tamil Nadu</span>
+                    <span>Coimbatore, Tamil Nadu</span>
                   </div>
                 </div>
                 <div className="bg-white/70 backdrop-blur-sm p-4 rounded-xl shadow-inner">
-                  <p className="text-gray-700 font-medium">CGPA: <span className="text-indigo-600 font-bold">8.71</span> (till 7th sem)</p>
+                  <p className="text-gray-700 font-medium">CGPA: <span className="text-indigo-600 font-bold">8.00</span> (till 6th sem)</p>
                 </div>
               </div>
             </div>
@@ -963,11 +880,11 @@ function App() {
                   <div className="grid grid-cols-2 gap-4">
                     <div className="text-center">
                       <p className="text-gray-700">Class XII</p>
-                      <p className="text-purple-600 font-bold text-lg">90.17%</p>
+                      <p className="text-purple-600 font-bold text-lg">87.25 %</p>
                     </div>
                     <div className="text-center">
                       <p className="text-gray-700">Class X</p>
-                      <p className="text-purple-600 font-bold text-lg">89.8%</p>
+                      <p className="text-purple-600 font-bold text-lg">84.00 %</p>
                     </div>
                   </div>
                 </div>
@@ -996,14 +913,14 @@ function App() {
               </p>
               <div className="flex flex-wrap justify-center gap-6">
                 <a 
-                  href="mailto:prem672003@gmail.com" 
+                  href="mailto:raphaelraghul@gmail.com" 
                   className="bg-white/10 backdrop-blur-sm p-4 rounded-full hover:bg-white/20 transition-all duration-300 group"
                   aria-label="Email"
                 >
                   <Mail size={24} className="text-white group-hover:scale-110 transition-transform duration-300" />
                 </a>
                 <a 
-                  href="https://github.com/premkumar0607" 
+                  href="https://github.com/Raghul20040000" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="bg-white/10 backdrop-blur-sm p-4 rounded-full hover:bg-white/20 transition-all duration-300 group"
@@ -1012,7 +929,7 @@ function App() {
                   <Github size={24} className="text-white group-hover:scale-110 transition-transform duration-300" />
                 </a>
                 <a 
-                  href="https://linkedin.com/in/prem-kumar-2003in/" 
+                  href="https://www.linkedin.com/in/raghul-s-2990aa226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="bg-white/10 backdrop-blur-sm p-4 rounded-full hover:bg-white/20 transition-all duration-300 group"
@@ -1021,7 +938,7 @@ function App() {
                   <Linkedin size={24} className="text-white group-hover:scale-110 transition-transform duration-300" />
                 </a>
                 <a 
-                  href="https://instagram.com/prem.kumar.67" 
+                  href="https://www.instagram.com/raghul_nevamind?utm_source=qr&igsh=MWJxMXdjdTBrNWx6YQ==" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="bg-white/10 backdrop-blur-sm p-4 rounded-full hover:bg-white/20 transition-all duration-300 group"
@@ -1029,7 +946,7 @@ function App() {
                 >
                   <Instagram size={24} className="text-white group-hover:scale-110 transition-transform duration-300" />
                 </a>
-                <a 
+                {/* <a 
                   href="https://medium.com/@prem672003" 
                   target="_blank" 
                   rel="noopener noreferrer" 
@@ -1037,14 +954,14 @@ function App() {
                   aria-label="Medium"
                 >
                   <BookOpen size={24} className="text-white group-hover:scale-110 transition-transform duration-300" />
-                </a>
+                </a> */}
               </div>
             </div>
             
             <div className="border-t border-white/10 pt-8 mt-8">
               <div className="text-center">
                 <div className="text-indigo-200 font-medium mb-4">
-                  <p>© 2025 Prem Kumar. All rights reserved.</p>
+                  <p>© 2025 Raghul. All rights reserved.</p>
                 </div>
                 <p className="text-indigo-300/60 text-sm">
                   Designed with passion and built with modern technologies
