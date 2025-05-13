@@ -555,7 +555,7 @@ function App() {
                   <div className="flex flex-col gap-2 text-gray-600 mb-4">
                     <div className="flex items-center gap-1">
                       <Building size={18} />
-                      <a href="https://www.suryainduction.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Accenture India Private Limited</a>
+                      <a href="https://www.accenture.com/in-en" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 font-medium">Accenture India Private Limited</a>
                     </div>
                     <div className="flex items-center gap-1">
                       <MapPin size={18} />
